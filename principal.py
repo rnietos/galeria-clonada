@@ -5,7 +5,16 @@ from pymongo import MongoClient
 from bson import ObjectId 
 from flask_mail import Mail, Message
 
+
 def comprueba_fondo():
+	pass
+
+DOCUMENTOS = ["doc", "docx"]
+
+def usuario():
+	pass
+
+def pasword():
 	pass
 
 EXTENSIONES = ["png", "jpg", "jpeg"]
