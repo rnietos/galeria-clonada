@@ -6,8 +6,6 @@ from bson import ObjectId
 from flask_mail import Mail, Message
 
 
-def comprueba_fondo():
-	pass
 
 DOCUMENTOS = ["doc", "docx"]
 
